@@ -7,5 +7,5 @@
 
 ### Choice of Bluetooth Low Energy Tracker
 #### 1. MetaMotionR Board from Mbient Lab
-#### The starter folder is based of the source code provided by Mbient Lab. 
+#### The starter folder is based of the source code provided by Mbient Lab.                                                     Modifications were made to the MainActivity.java and AndroidManifest.xml in order to adjust the requirements for our tracker to fit our needs
 
